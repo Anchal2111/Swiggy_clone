@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../New folder/My-Portfolio"
+		},
+		{
+			"path": "../chat"
+		},
+		{
+			"path": "../Vitereact_JS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tailwind CSS"
+	}
+}
